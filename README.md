@@ -1,2 +1,2 @@
-# PrograWeb
-Repositorio del curso de Programación Web 2024-I
+# Ejercicios JavaScript
+Repositorio donde almacenaré los ejercicios que realice en JavaScript
